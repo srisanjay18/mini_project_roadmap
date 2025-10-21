@@ -1,24 +1,20 @@
-/* Sets a clean and readable font for the whole page */
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
-/* Centers the main heading slightly and adds spacing */
 h1 {
   color: blue;
     text-align: center;
     margin-bottom: 20px;
 }
 
-/* Adds spacing around form elements for better readability */
 label, select, button {
     
     display: block;
     margin: 10px 0;
 }
 
-/* Adds a simple border and padding for the roadmap output section */
 #roadmap-output {
     margin-top: 20px;
     padding: 10px;

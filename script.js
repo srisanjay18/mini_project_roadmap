@@ -50,6 +50,5 @@ generateButton.addEventListener('click', function() {
         ul.appendChild(li);
     });
 
-    // Step 10: Add the generated list to the output div
     roadmapOutput.appendChild(ul);
 });
